@@ -1,2 +1,2 @@
 # hello-world
-Criei o repositório, adicionei ele no meu computador pelo terminal, criei o arquivo helloWorld.js colocando a frase 'Hello World!'. Começo sobre as ferramentas.
+Este repositório é o primeiro exercício do curso de desenvolvimento de softwere da Cubos Academy. Como todo programador deve fazer seu famoso "Hello, World!"
